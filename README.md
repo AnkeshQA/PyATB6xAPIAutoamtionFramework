@@ -15,6 +15,8 @@ This framework follows industry best practices with a clean folder structure, ex
 * Easy to extend for CI/CD pipelines (GitHub Actions, Jenkins, GitLab CI)
 
 ---
+![Screenshot 2024-08-05 at 08 18 38](https://github.com/user-attachments/assets/3c7d5fe5-207a-42e7-84fe-f4d53354d987)
+
 
 ## 📂 Project Structure
 
