@@ -121,7 +121,7 @@ allure serve allure_result
 ## 👨‍💻 Author
 
 **Ankesh Shikhar**
-QA Leader | SDET | Automation Architect | Educator
+QA Engineer
 
 ---
 
