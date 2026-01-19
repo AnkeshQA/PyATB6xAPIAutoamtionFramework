@@ -90,7 +90,7 @@ pip install pytest-xdist
 ### ✅ Run a Single Test with Allure Report
 
 ```bash
-pytest tests/tests/crud/test_create_booking.py --alluredir=allure_result -s
+pytest src/tests/crud/test_create_booking.py --alluredir=allure_result -s
 ```
 
 ### ⚡ Run Tests in Parallel
