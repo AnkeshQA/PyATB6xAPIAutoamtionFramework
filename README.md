@@ -120,21 +120,11 @@ allure serve allure_result
 
 ## 👨‍💻 Author
 
-**Pramod Dutta**
+**Ankesh Shikhar**
 QA Leader | SDET | Automation Architect | Educator
 
 ---
 
-## 🌐 Community & Learning Resources
-
-* 🌍 **Website**: [https://thetestingacademy.com](https://thetestingacademy.com)
-* 💼 **LinkedIn**: [https://www.linkedin.com/in/pramoddutta](https://www.linkedin.com/in/pramoddutta)
-* 📺 **YouTube**: [https://www.youtube.com/@TheTestingAcademy](https://www.youtube.com/@TheTestingAcademy)
-* 📸 **Instagram**: [https://www.instagram.com/thetestingacademy](https://www.instagram.com/thetestingacademy)
-* 📝 **Blog**: [https://scrolltest.com](https://scrolltest.com)
-* 🧠 **Courses & Mentorship**: [https://thetestingacademy.com](https://thetestingacademy.com)
-
----
 
 ## 🤝 Contributions
 
@@ -160,5 +150,3 @@ You are free to use, modify, and distribute it with attribution.
 If you find this framework helpful:
 
 * Star ⭐ the repository
-* Share it with the QA & Testing community
-* Subscribe to **The Testing Academy** on YouTube
